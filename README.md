@@ -11,7 +11,7 @@
   -[Questions](#questions)<br/>
 
   ## Description
-  This project used node express js to create a simple yet effective note taking application. 
+  This project used node express js to create a simple yet effective note taking application. This project is deployed on heroku at https://calm-forest-03598.herokuapp.com/
 
   ## Installation
   Any necessary installations needed for this program will be done through the integrated terminal on the server.js file. After opening the terminal, type in "npm i".
